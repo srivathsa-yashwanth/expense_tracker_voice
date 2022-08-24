@@ -14,7 +14,7 @@ const Main = () => {
     <Card className={classes.root} >
         <CardHeader title='Expense Tracker' subheader='Powered by Speechly' />
         <CardContent>
-            <Typography align='center' variant='h5' >Total Balance $100</Typography>
+            <Typography align='center' variant='h5' >Total Balance ₹100</Typography>
             <Typography  variant='subtitle1' style={{lineHeight: '1.5em', marginTop:'20px'}} >
 
               Try saying: something add somewhere by some amount

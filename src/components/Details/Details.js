@@ -1,12 +1,12 @@
 import React from 'react'
 import {Card,CardHeader, CardContent, Typography} from '@material-ui/core'
-import {Chart, ArcElement} from 'chart.js';
+import {Chart, ArcElement, Tooltip, Legend} from 'chart.js';
 import {Doughnut} from 'react-chartjs-2';
 
 import useTransactions from '../../useTransactions'
 import useStyles from './detailsStyles'
 
-Chart.register(ArcElement)
+Chart.register(ArcElement, Tooltip, Legend)
 
 const Details = (props) => {
 

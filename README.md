@@ -31,6 +31,8 @@
 <h3>Possible Commands</h3>
 <p>
     <em>"Add <strong>income</strong> of <strong>fifty thousand rupees</strong> in category <strong>salary</strong> for <strong>next friday</strong> "</em>
+</p>
+<p>
     <em>"Add <strong>expense</strong> of <strong>ten thousand rupees</strong> in category <strong>bills</strong> for <strong>tomorrow</strong> "</em>
 </p>
 

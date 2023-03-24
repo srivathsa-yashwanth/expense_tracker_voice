@@ -25,8 +25,8 @@
 </p>
 <p>First press spacebar to start the recording and make sure to allow the browser to use your microphone.</p>
 <p>Then give out instructions in the following format:</p>
-<p> <em>add income|expense of (any number) {rupees} {in category} ( any category in the dropdown) {for} {any date} </em></p>
-<p>The words wrapped in <strong>{}</strong> are optional while <strong>|</strong> indicates either of the both </p>
+<p> <em>add {income|expense} of {any number} (rupees) (in category) { any category in the dropdown} (for) (any date) </em></p>
+<p>The words wrapped in <strong>()</strong> are optional while <strong>|</strong> indicates either of the both </p>
 <p>Note that income and expense has different categories. Select each and look at the categories drop down to see them all.</p>
 <h3>Possible Commands</h3>
 <p>
